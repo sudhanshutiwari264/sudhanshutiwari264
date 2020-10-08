@@ -18,7 +18,7 @@
 <a href="https://medium.com/@sudhanshutiwari264" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sudhanshutiwari264" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC9eDh5ByrCT2WinIji5Qyig" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="coding with tiwari" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tiwariji264" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@tiwariji264" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/tiwariji264" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="tiwariji264" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@Sudhanshutiwari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="tiwariji264" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sudhanshutiwari264/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/sudhanshutiwari264/profile" height="30" width="40" /></a>
 </p>
 
