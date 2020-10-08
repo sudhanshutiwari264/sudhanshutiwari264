@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Tiwari</h1>
 <h3 align="center">Sr. Secondary Student preparing for jee!</h3>
 
+![Name gif](https://github.com/sudhanshutiwari264/sudhanshutiwari264/blob/main/ezgif.com-gif-maker.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshutiwari264" alt="sudhanshutiwari264" /> </p>
 
 - 🌱 I’m currently learning **python,java,DSA**
