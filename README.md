@@ -41,4 +41,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshutiwari264&theme=cobalt&langs_count=8&layout=compact" />
 </a>
 
+<a href="https://github.com/sudhanshutiwari264">
+  <img align="center" src="https://github.com/sudhanshutiwari264/sudhanshutiwari264/blob/main/Screenshot%202020-10-25%20133007.jpg" />
+</a>
+
 ![Footer](https://github.com/sudhanshutiwari264/sudhanshutiwari264/blob/main/footer.png)
