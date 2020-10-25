@@ -38,4 +38,4 @@
 <a href="https://github.com/sudhanshutiwari264">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshutiwari264&theme=cobalt&langs_count=8&layout=compact" />
 </a>
-![Footer](https://github.com/sudhanshutiwari264/sudhanshutiwari264/blob/main/ezgif.com-gif-maker.gif)
+[img](https://github.com/sudhanshutiwari264/sudhanshutiwari264/blob/main/ezgif.com-gif-maker.gif)
