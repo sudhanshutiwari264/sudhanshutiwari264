@@ -8,12 +8,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshutiwari264" alt="sudhanshutiwari264"  /> </p>
 --->
 
- 🌱 I’m currently learning **Data Science,Cloud Computing,Big Data Ecosystem,DSA,DevOps**
+ 🌱 I’m currently learning **Data Science,Cloud Computing,DSA**
 
  💬 Ask me about **chess,coffee**
 
  📫 How to reach me **sudhanshutiwari264@gmail.com**
- On LinkedIn **![On Linkedin](https://i.stack.imgur.com/gVE0j.png) [Sudhanshu Tiwari](https://www.linkedin.com/in/sudhanshutiwari264/)**
+ On LinkedIn **![On Linkedin](https://i.stack.imgur.com/gVE0j.png) [Sudhanshu Tiwari](https://www.linkedin.com/in/tiwari-sudhanshu/)**
 <!-- 
 ###### print("ReadMe.md is loading ......")
 -->
