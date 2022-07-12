@@ -17,7 +17,7 @@
  **![On Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ==>[Sudhanshu Tiwari](https://www.linkedin.com/in/tiwari-sudhanshu/)**<br>
  **![Leetcode profile](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) ==>[sudhanshutiwari264](https://leetcode.com/sudhanshutiwari264/)**
  
- ![](https://leetcard.jacoblin.cool/sudhanshutiwari264?ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sudhanshutiwari264?theme=forest&font=Charm&ext=activity)
 <!-- 
 ###### print("ReadMe.md is loading ......")
 -->
