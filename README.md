@@ -17,7 +17,7 @@
 <h2 align="center">🌌 Journey through the Cosmos</h2>
 
 <p align="center">
-  <a href="mailto:sudhanshu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-ff69b4?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:sudhanshutiwari264@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-ff69b4?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/tiwari-sudhanshu/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
