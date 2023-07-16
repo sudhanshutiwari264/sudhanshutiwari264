@@ -48,7 +48,7 @@
 <h2 align="center">🌟 Stellar Achievements</h2>
 
 <p align="center">
-  <a href="https://devfolio.co/projects/gari-shoppy-2435"><strong>✨ GariTrack</strong></a> - A web app empowering farmers to track crop growth and make data-driven farming decisions. Awarded the hackathon bounty at LNMHacks 5.0.
+  <a href="https://devfolio.co/projects/gari-shoppy-2435"><strong>✨ GariTrack</strong></a> - A web app empowering Gari tokens  to purchase various things using wallet. Awarded the hackathon bounty at LNMHacks 5.0.
 </p>
 
 <p align="center">
